@@ -6,8 +6,8 @@ This project is the week one challenge involving refactoring the code of a prema
 
 # Screenshot 
 
-![website1](Develop\assets\images\website1.png)
+![website1](assets\images\website1.png)
 
-![website2](Develop\assets\images\website2.png)
+![website2](assets\images\website2.png)
 
 # Link to Website
