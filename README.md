@@ -6,8 +6,8 @@ This project is the week one challenge involving refactoring the code of a prema
 
 # Screenshot 
 
-![website1](C:\Users\Connor\bootcamp\class-challenges\refactoring-challenge\assets\images\website1.png)
+![website1](website1.png)
 
-![website2](assets\images\website2.png)
+![website2](website2.png)
 
 # Link to Website
